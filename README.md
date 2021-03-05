@@ -10,3 +10,5 @@ Texto inserido no GitHub
 Texto inserido pelo Git
 
 Texto 2 inserido no github
+
+texto 2 inserido pelo git
