@@ -8,3 +8,5 @@ By Marcel Assad
 Texto inserido no GitHub
 
 Texto inserido pelo Git
+
+Texto 2 inserido no github
